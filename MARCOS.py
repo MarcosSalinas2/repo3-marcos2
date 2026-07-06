@@ -1,3 +1,1 @@
-print("github funciona")
-
-print("YA CLONE EL REPO")
+print("Esto es un ejemplo de cambios en github desktop")
